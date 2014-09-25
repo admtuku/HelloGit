@@ -24,3 +24,6 @@ example: git push -f origin a8330c2:master
 ** If you are messed and want to get sync with origin up to date
 - git fetch origin && git reset --hard origin/master && git clean -f -d
 http://ocpsoft.org/tutorials/git/reset-and-sync-local-respository-with-remote-branch/
+
+**when pushing causes prob
+- git push origin HEAD:master
