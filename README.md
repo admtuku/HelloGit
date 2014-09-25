@@ -27,3 +27,5 @@ http://ocpsoft.org/tutorials/git/reset-and-sync-local-respository-with-remote-br
 
 **when pushing causes prob
 - git push origin HEAD:master
+
+#hello  Git from Linux
